@@ -57,7 +57,7 @@ My contributions include implementing:
 ## Results
 ### MPC vs PID Simulation Results 
 <p align="center">
-  <img src="/img/MPC_vs_PID.gif" width="35%">
+  <img src="/img/MPC_vs_PID.gif" width="40%">
   <img src="/img/MPC__PID.jpg" width="55%">
 </p>
 
