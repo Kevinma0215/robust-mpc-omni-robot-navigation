@@ -20,6 +20,8 @@
 % =========================================================================
 %%
 clear; clc;
+addpath(genpath(pwd));
+
 % Initialize params
 [robot, mpc, sim] = init_params();
 ds = sim.ds;      % s-domain scale resolution
